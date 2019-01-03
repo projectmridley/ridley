@@ -1,0 +1,41 @@
+-----Project Leads-----
+BaganSmashBros: Project Leader and Creator of the original Classic Ridley PSA (http://forums.kc-mm.com/Gallery/BrawlView.php?Number=213286), in which I based my overhaul off of.
+KingJigglypuff: Project leader of the Classic Ridley Balance Overhaul.
+
+-----Contributors-----
+Bent00: Branching an alternative version of Pyotr's Minus Mewtwo Shadow Ball code and fixing a crashing issue with it (in which I used as a base for Ridley's Fireball piercing)
+Draco_The: Finished where Moblin left off when it came to Meta Ridley's model edits, in addition to making Ridley's shadow model, and doing the needed hex editing to make it work.
+DukeItOut: Helping out with getting Ridley's additional costume slots working (Pre-made Project M build exclusive).
+FireballStars: Initial Up Smash animation.
+GeoBantra: Made Ridley's new Stock Icons.
+IWantGames: First contributor when it came to Meta Ridley's model edits.
+Jay Reichard (Indirect): Composed the MIDI in which Cahalan used as a base for Ridley's Victory Theme.
+MKHT (formerly Marioking64DS): Misc animation.
+Former members of Smash 3: Provided feedback during the initial stages of making Ridley's recolors.
+Moblin: Continued where IWantGames left off when it came to Meta Ridley's model edits, in addition to initially optimizing Ridley's models.
+Omniscient X: Animation.
+Psycho: Made HD nametags for Ridley.
+PyotrLuzhin: Fixing the bone placement of Ridley's Fireball (GCT code needed) in addition to making the base code for Fireball piercing (was originally used for Minus Mewtwo's Shadow Ball).
+RYO: Made the pink and gold Ridley recolors.
+Simplicious (also known as Simplies): Misc animation.
+TheRealHeroOfWinds: Initial texturing for Ridley's tail glow model. Also made CSS Icons.
+TheShyGuy (also known as GuiltyGhost): Initial Heavy Item animations (they were unfortunately scrapped, but this user is still credited for his efforts).
+Theytah (also known as Ryztiq): Initial optimization updates for Ridley's models (his edits were reverted, but this user is still credited for his efforts).
+Tiberious: Created the first set of proper nametags for Ridley.
+Tryptech: Made new renders for Ridley and Meta Ridley, alongside making a recolor template for Meta Ridley.
+Yohan1044: Fixed Pyotr's Fireball ID Fix code to not break Mewtwo's Shadow Ball.
+
+-----Playtesters-----
+BeyondSmash: Personally playtested with me over Dolphin Netplay.
+Bringobrongo (August 28th, 2017 - Present)
+Cahalan (August 28th, 2017 - Present), also made a Victory Theme brstm out of Jay Reichard's MIDI.
+ESS|Shockbound (November 12th, 2017 - Present)
+JCentavo (Testing dates back to before my first overhaul)
+King Bob Videos (August 28th, 2017 - October 4th, 2017)
+Pyro Gaming (August 28th, 2017 - Present)
+Neroven (August 28th, 2017 - October 4th, 2017)
+Survivian (August 28th, 2017 - Present)
+Sizion (August 28th, 2017 - September 2nd, 2017)
+SOJ: Personally playtested with me over Dolphin Netplay. Is also developing a release trailer.
+Spigel (August 28th, 2017 - Present)
+Terror (August 28th, 2017 - October 4th, 2017)
